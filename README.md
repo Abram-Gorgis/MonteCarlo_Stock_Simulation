@@ -18,6 +18,9 @@
   <tr>
     <td>GOOG</td>
   </tr>
+   <tr>
+    <td>NVDA</td>
+  </tr>
 </table>
   </li>
 <li>type sbt assemble into terminal and locate jar file</li>
