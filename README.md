@@ -5,7 +5,7 @@
 <ul>
 <li>put main file in src/main/scala</li>
 <li>put tests file in src/test/scala</li>
-<li>take python script and put in directory with stock.txt which contains a stock ticker per line
+<li>take python script and put in directory with stock.txt which contains a stock ticker per line \n
   EX:
   <table style="width:100%">
   <tr>
