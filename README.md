@@ -1,4 +1,7 @@
-Download files
+## Table of contents
+* [Set Up](#Set-Up)
+
+##Set Up
 put main file in src/main/scala
 put tests file in src/test/scala
 take python script and put in directory with stock.txt which contains a stock ticker per line
